@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584776229613.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2548304669",
+    "id" : "6359F4D8",
+    "lastKnownWriteTime" : 1584937999,
+    "last_content_update" : 1584937999587,
+    "path" : "C:/iot/work/Rwork/Bigdata/Crolling_mongoDB.R",
+    "project_path" : "Crolling_mongoDB.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "source_window_id" : "",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

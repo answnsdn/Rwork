@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584602627770.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1714294439",
+    "id" : "589AD50D",
+    "lastKnownWriteTime" : 1584612574,
+    "last_content_update" : 1584612574333,
+    "path" : "C:/iot/work/Rwork/CSVExam.R",
+    "project_path" : "CSVExam.R",
+    "properties" : {
+        "cursorPosition" : "15,39",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584596868183.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "323043610",
+    "id" : "DAC3DD2C",
+    "lastKnownWriteTime" : 1584612818,
+    "last_content_update" : 1584612818025,
+    "path" : "C:/iot/work/Rwork/dataframe2.R",
+    "project_path" : "dataframe2.R",
+    "properties" : {
+        "cursorPosition" : "18,40",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

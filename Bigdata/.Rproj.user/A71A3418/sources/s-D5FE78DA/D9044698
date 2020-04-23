@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584943661883.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2325497083",
+    "id" : "D9044698",
+    "lastKnownWriteTime" : 1585012866,
+    "last_content_update" : 1585012866256,
+    "path" : "C:/iot/work/Rwork/Bigdata/wordcount.R",
+    "project_path" : "wordcount.R",
+    "properties" : {
+        "cursorPosition" : "63,0",
+        "scrollLine" : "46",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584941704643.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4006192242",
+    "id" : "AE4167A6",
+    "lastKnownWriteTime" : 1584942404,
+    "last_content_update" : 1584942404460,
+    "path" : "C:/iot/work/Rwork/Bigdata/rvest_test.R",
+    "project_path" : "rvest_test.R",
+    "properties" : {
+        "cursorPosition" : "17,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

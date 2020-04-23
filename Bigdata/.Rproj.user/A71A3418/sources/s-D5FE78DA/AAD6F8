@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584941511904.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3533928248",
+    "id" : "AAD6F8",
+    "lastKnownWriteTime" : 1584957125,
+    "last_content_update" : 1584957125252,
+    "path" : "C:/iot/work/Rwork/Bigdata/Naver_comment.R",
+    "project_path" : "Naver_comment.R",
+    "properties" : {
+        "cursorPosition" : "6,6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
